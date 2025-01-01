@@ -17,3 +17,11 @@
 ### Public Cloud
 * Cloud resources owned and operated by a thirdparty cloud service provider delivered over the Internet.
 * Six Advantages of Cloud Computing
+### Hybrid Cloud
+* Keep some servers on premises and extend some capabilities to the Cloud
+* Control over sensitive assets in your private infrastructure
+* Flexibility and costeffectiveness of the public cloud
+## The Five Characteristics of Cloud Computing NOT FOR DISTRIBUTION
+* On-demand self service:
+* * Users can provision resources and use them without human interaction from the service provider
+*  Broad network access: • Resources available over the network, and can be accessed by diverse client platforms • Multi-tenancy and resource pooling: • Multiple customers can share the same infrastructure and applications with security and privacy • Multiple customers are serviced from the same physical resources • Rapid elasticity and scalability: • Automatically and quickly acquire and dispose resources when needed • Quickly and easily scale based on demand • Measured service: • Usage is measured, users pay correctly for what they have used
