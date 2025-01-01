@@ -34,3 +34,13 @@
   * Quickly and easily scale based on demand
  * Measured service:
    * Usage is measured, users pay correctly for what they have used
+## Types of Cloud Computing
+* Infrastructure as a Service (IaaS):
+  * Amazon EC2 (on AWS)
+  * GCP, Azure, Rackspace, Digital Ocean, Linode
+* Platform as a Service (PaaS)
+  * Elastic Beanstalk (on AWS)
+  * Heroku, Google App Engine (GCP), Windows Azure (Microsoft)
+* Software as a Service (SaaS)
+  * Many AWS services (ex: Rekognition for Machine Learning)
+  * Google Apps (Gmail), Dropbox, Zoom
