@@ -10,7 +10,7 @@
 * Switch: Takes a packet and send it to the correct server / client on your network. 
 ### The Deployment Models of the Cloud
 ##### Private Cloud
-• Cloud services used by a single organization, not exposed to the public. 
-• Complete control 
-• Security for sensitive applications 
-• Meet specific business needs
+* Cloud services used by a single organization, not exposed to the public. 
+* Complete control 
+* Security for sensitive applications 
+* Meet specific business needs
