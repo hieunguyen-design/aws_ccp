@@ -9,8 +9,11 @@
 * Router: a networking device that forwards data packets between computer networks. They know where to send your packets on the internet!
 * Switch: Takes a packet and send it to the correct server / client on your network. 
 ## The Deployment Models of the Cloud
-#### Private Cloud
+### Private Cloud
 * Cloud services used by a single organization, not exposed to the public. 
 * Complete control 
 * Security for sensitive applications 
 * Meet specific business needs
+### Public Cloud
+* Cloud resources owned and operated by a thirdparty cloud service provider delivered over the Internet.
+* Six Advantages of Cloud Computing
