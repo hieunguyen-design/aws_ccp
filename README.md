@@ -1,3 +1,2 @@
-# aws_ccp
-## Note 
+# NOTEs
 ### What is the server composed of
