@@ -44,3 +44,4 @@
 * Software as a Service (SaaS)
   * Many AWS services (ex: Rekognition for Machine Learning)
   * Google Apps (Gmail), Dropbox, Zoom
+## Shared Responsibility Model diagram
