@@ -45,3 +45,4 @@
   * Many AWS services (ex: Rekognition for Machine Learning)
   * Google Apps (Gmail), Dropbox, Zoom
 ## Shared Responsibility Model diagram
+![alt text](https://github.com/hieunguyen-design/aws_ccp/blob/47d7da08015420e04ca219e6a54abf6b7a786d6a/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg)
